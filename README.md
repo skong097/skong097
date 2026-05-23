@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314E,100:0A7CFF&height=200&section=header&text=Stephen%20Kong&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20Engineer%20%C2%B7%20ROS2%20%C2%B7%20Vision%20AI&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314E,100:0A7CFF&height=220&section=header&text=Engineering%20Robots%20That%20Earn%20Trust&fontSize=38&fontColor=ffffff&fontAlignY=34&desc=%EC%8B%A0%EB%A2%B0%EB%B0%9B%EB%8A%94%20%EB%A1%9C%EB%B4%87%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4%20%20%C2%B7%20%20ROS2%20%C2%B7%20Vision%20AI&descSize=18&descAlignY=58" width="100%"/>
 
 ### 공국진 (Stephen Kong) : **skong097 @ gmail.com**
 
