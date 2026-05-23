@@ -118,7 +118,7 @@ ROS2 Jazzy · BT.CPP 4.8.3 · C++ · Nav2
 </td>
 <td width="50%" valign="top">
 
-### ☕ Dobi Barista
+###  Robot Catering Service
 **Autonomous Barista Robot**
 
 Vic Pinky Pro · OMX 4-DOF Arm · ACT Policy
