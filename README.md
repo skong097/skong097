@@ -70,21 +70,6 @@ ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=skong097&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=skong097&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skong097&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skong097&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## Selected Projects
 
 <table>
