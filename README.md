@@ -21,7 +21,7 @@ ROS2 기반 자율 서비스 로봇과 Vision AI 시스템을 설계·개발하�
 
 -  **Currently building** Behavior Tree 기반 카페 NPC 솔리시테이션 시스템 (MoCa)
 -  **Researching** VLA-class policies (SmolVLA, Pi0) for bimanual manipulation
--  **Working at** — solo developer across concurrent robotics projects
+-  **Work** solo developer across concurrent robotics projects
 -  **Blogging weekly** on robotics, ROS2, and Vision AI
 
 ---
