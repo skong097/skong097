@@ -73,6 +73,29 @@ ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![ST-GCN](https://img.shields.io/badge/ST--GCN-512BD4?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-2E7D32?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-7B1FA2?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-9CCC65?style=for-the-badge)
+
+### Voice & LLM
+![faster-whisper](https://img.shields.io/badge/faster--whisper_STT-FFB300?style=for-the-badge)
+![Porcupine](https://img.shields.io/badge/Porcupine_Wake_Word-7B2D8E?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Korean NLU](https://img.shields.io/badge/한국어_자연어_제어-FF4081?style=for-the-badge)
+
+### Edge / IoT
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-1E1E1E?style=for-the-badge)
+![AES](https://img.shields.io/badge/AES_Encryption-455A64?style=for-the-badge)
+![TCP/Serial](https://img.shields.io/badge/TCP_·_Serial-2E7D32?style=for-the-badge)
+
+### VLA & Imitation Learning *(Research · Project in Progress)*
+![LeRobot](https://img.shields.io/badge/LeRobot_0.5-FFD21E?style=for-the-badge)
+![ACT Policy](https://img.shields.io/badge/ACT_Policy-9C27B0?style=for-the-badge)
+![SmolVLA](https://img.shields.io/badge/SmolVLA-FF6B35?style=for-the-badge)
+![Pi0](https://img.shields.io/badge/Pi0-00ACC1?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA_12.8-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Languages & Dev Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
