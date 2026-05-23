@@ -68,6 +68,14 @@ ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
 
 **Languages & Dev Tools** — Python · C++ · Ubuntu · VS Code · Jupyter · Git
 
+```text
+Robotics Stack       ████████████████████░  ROS2 · Nav2 · MoveIt2 · BT.CPP
+AI / ML              ███████████████████░░  PyTorch · LeRobot · ACT · ST-GCN
+Vision AI            ████████████████████░  OpenCV · YOLO · MediaPipe
+AIOps / MLOps        ██████████████░░░░░░░  Pipeline · Training Orchestration
+Robot Security       ████████████░░░░░░░░░  JWT · HMAC · NIST SP800-213
+```
+
 ---
 
 ## Selected Projects
@@ -118,18 +126,6 @@ MediaPipe · YOLO · Real-time
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Engineering Footprint
-
-```text
-Robotics Stack       ████████████████████░  ROS2 · Nav2 · MoveIt2 · BT.CPP
-AI / ML              ███████████████████░░  PyTorch · LeRobot · ACT · ST-GCN
-Vision AI            ████████████████████░  OpenCV · YOLO · MediaPipe
-AIOps / MLOps        ██████████████░░░░░░░  Pipeline · Training Orchestration
-Robot Security       ████████████░░░░░░░░░  JWT · HMAC · NIST SP800-213
-```
 
 ---
 
