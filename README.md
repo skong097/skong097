@@ -18,7 +18,6 @@
 ##  About Me
 
 ROS2 기반 자율 서비스 로봇과 Vision AI 시스템을 설계·개발하는 로보틱스 엔지니어입니다.
-Behavior Tree 기반의 상호작용형 NPC, 모바일 매니퓰레이터, AIOps/MLOps 파이프라인을 주로 다룹니다.
 
 -  **Currently building** Behavior Tree 기반 카페 NPC 솔리시테이션 시스템 (MoCa)
 -  **Researching** VLA-class policies (SmolVLA, Pi0) for bimanual manipulation
