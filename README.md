@@ -8,9 +8,8 @@
 
 > Building autonomous service robots — from BT-driven NPCs to bimanual manipulation.
 
-[![Blog]([https://img.shields.io/badge/Blog-PinkLAB-FF1493?style=for-the-badge&logo=rss&logoColor=white](https://skong097.github.io/))](https://skong097.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-PinkLAB-FF1493?style=for-the-badge&logo=rss&logoColor=white)](https://skong097.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skong097@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=skong097&style=flat-square&color=0A7CFF)
 
 </div>
 
