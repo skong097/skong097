@@ -24,7 +24,7 @@ Behavior Tree 기반의 상호작용형 NPC, 모바일 매니퓰레이터, AIOps
 
 -  **Currently building** Behavior Tree 기반 카페 NPC 솔리시테이션 시스템 (MoCa)
 -  **Researching** VLA-class policies (SmolVLA, Pi0) for bimanual manipulation
--  **Working at** [PinkLAB](https://pinklab.art) — solo developer across concurrent robotics projects
+-  **Working at** — solo developer across concurrent robotics projects
 -  **Blogging weekly** on robotics, ROS2, and Vision AI
 
 ---
