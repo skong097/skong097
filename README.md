@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314E,100:0A7CFF&height=220&section=header&text=Engineering%20Robots%20That%20Earn%20Trust&fontSize=38&fontColor=ffffff&fontAlignY=34&desc=%EC%8B%A0%EB%A2%B0%EB%B0%9B%EB%8A%94%20%EB%A1%9C%EB%B4%87%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4%20%20%C2%B7%20%20ROS2%20%C2%B7%20Vision%20AI&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314E,100:0A7CFF&height=220&section=header&text=Engineering%20Robots%20That%20Earn%20Trust&fontSize=38&fontColor=ffffff&fontAlignY=34&desc=%EC%8B%A0%EB%A2%B0%EB%B0%9B%EB%8A%94%20%EB%A1%9C%EB%B4%87%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4&descSize=18&descAlignY=58" width="100%"/>
 
 ### 공국진 (Stephen Kong) : **skong097 @ gmail.com**
 
-> Building autonomous service robots — from BT-driven NPCs to bimanual manipulation.
+> Building autonomous service robots · ROS2 · Vision AI — from BT-driven NPCs to bimanual manipulation.
 
 [![Blog](https://img.shields.io/badge/Blog-Stephen's_Robotics_Lab-5eead4?style=for-the-badge&logo=githubpages&logoColor=5eead4&labelColor=0a0e1a)](https://skong097.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skong097@gmail.com)
