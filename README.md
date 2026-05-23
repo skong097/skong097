@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ROS2 기반 자율 서비스 로봇과 Vision AI 시스템을 설계·개발하는 로보틱스 엔지니어입니다.
 Behavior Tree 기반의 상호작용형 NPC, 모바일 매니퓰레이터, AIOps/MLOps 파이프라인을 주로 다룹니다.
@@ -56,7 +56,7 @@ ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -88,7 +88,7 @@ ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -103,13 +103,13 @@ ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
 
 ---
 
-## 🎯 Selected Projects
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [MoCa](https://github.com/skong097/moca)
+### [MoCa](https://github.com/skong097/moca)
 **Cafe NPC Behavior Tree System**
 
 ROS2 Jazzy · BT.CPP 4.8.3 · C++ · Nav2
@@ -131,7 +131,7 @@ Full-stack café robot with melamine tray, vision-anchored pick-and-place, and G
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ [vision_ai](https://github.com/skong097/vision_ai)
+###  [vision_ai](https://github.com/skong097/vision_ai)
 **Home Safe Solution**
 
 ST-GCN · Random Forest · FastAPI
@@ -141,7 +141,7 @@ Fall detection pipeline: RF 93.19% (frame-level), Fine-tuned ST-GCN 91.89% (temp
 </td>
 <td width="50%" valign="top">
 
-### 🎮 PlayWait
+###  PlayWait
 **B2B2C Vision AI Game Platform**
 
 MediaPipe · YOLO · Real-time
@@ -157,16 +157,16 @@ MediaPipe · YOLO · Real-time
 ## 📈 Engineering Footprint
 
 ```text
-🤖 Robotics Stack       ████████████████████░  ROS2 · Nav2 · MoveIt2 · BT.CPP
-🧠 AI / ML              ███████████████████░░  PyTorch · LeRobot · ACT · ST-GCN
-👁️  Vision AI            ████████████████████░  OpenCV · YOLO · MediaPipe
-⚙️  AIOps / MLOps        ██████████████░░░░░░░  Pipeline · Training Orchestration
-🔐 Robot Security       ████████████░░░░░░░░░  JWT · HMAC · NIST SP800-213
+Robotics Stack       ████████████████████░  ROS2 · Nav2 · MoveIt2 · BT.CPP
+AI / ML              ███████████████████░░  PyTorch · LeRobot · ACT · ST-GCN
+Vision AI            ████████████████████░  OpenCV · YOLO · MediaPipe
+AIOps / MLOps        ██████████████░░░░░░░  Pipeline · Training Orchestration
+Robot Security       ████████████░░░░░░░░░  JWT · HMAC · NIST SP800-213
 ```
 
 ---
 
-## 📝 Latest from the Blog
+##  Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Auto-populated via gautamkrishnar/blog-post-workflow GitHub Action -->
@@ -178,7 +178,7 @@ MediaPipe · YOLO · Real-time
 
 <div align="center">
 
-### 💬 Let's Connect
+###  Let's Connect
 
 Open to collaboration on **ROS2 service robotics**, **VLA policies**, and **vision-AI HRI** projects.
 
