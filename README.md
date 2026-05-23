@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314E,100:0A7CFF&height=200&section=header&text=Stephen%20Kong&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20Engineer%20%C2%B7%20ROS2%20%C2%B7%20Vision%20AI&descSize=18&descAlignY=60" width="100%"/>
 
 ### 공국진 (Stephen Kong) · `skong097`
-**Robotics Engineer @ PinkLAB**
+**skong097 @ gmail.com**
 
 > Building autonomous service robots — from BT-driven NPCs to bimanual manipulation.
 
