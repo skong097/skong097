@@ -16,38 +16,13 @@
 
 ## About Me
 
-<<<<<<< HEAD
-ROS2 기반 자율 서비스 로봇과 Vision AI 시스템을 설계·개발하는 로보틱스 엔지니어입니다.
-
--  **Currently building** Behavior Tree 기반 카페 NPC 모객 시스템 (MoCa)
--  **Researching** VLA-class policies (SmolVLA, Pi0) for bimanual manipulation
--  **Work** solo developer across concurrent robotics projects
--  **Blogging weekly** on robotics, ROS2, and Vision AI
-=======
 **23년간 대규모 IT 인프라의 무중단 운영을 책임져 온 엔지니어**입니다.
 다음 20년은 사람을 직접 돕는 Physical AI 시스템에 그 경험을 쓰려 합니다.
 
-- 🛠️ **Past 19y** — Data cluster team lead · 약 18PB Hadoop 멀티클러스터 · 무중단 마이그레이션 · 운영로그 ML 예측 시스템
-- 🤖 **Past 6m** — Physical AI 엔지니어링 (ROS2 · Vision AI · VLA) 양성과정 수료 예정 (2026-06)
-- ☁️ **Cloud** — Microsoft Azure AZ-900 (2025), AZ-104 학습 중
-- ✍️ **Blogging weekly** on robotics, ROS2, and Vision AI
-
----
-
-## Career Backbone (23 Years)
-
-| Period | Role | Highlights |
-|---|---|---|
-| **2018 ~ 2024** (7y) | Data Cluster 개발팀장 | • 약 **18PB** Hadoop 멀티클러스터 설계·운영 (HDFS · RBF · Hive · Impala · YARN · Kafka)<br>• 유료 배포판 → Apache 오픈소스 **무중단 마이그레이션** (2년 · 약 30억 라이선스 부담 해소 · v2.6 → v3.2.2)<br>• 운영로그 기반 **장애 예측 ML 시스템** (XGBoost · LightGBM · MLflow) + 룰 기반 **워크로드 이상탐지** (IQR) 병행<br>• HA 3-노드 (Active / Standby / Observer) + 원격지 DR · 가동률 **99.98%** |
-| **2015 ~ 2017** (3y) | 시스템운영팀장 | 대규모 서비스 운영 총괄 · OpenStack 사설 클라우드 · 서버 가상화 R&D |
-| **2012 ~ 2014** (3y) | 해외시스템운영팀장 | 일본 · 대만 지사 서비스 원격 운영 총괄 |
-| **2010 ~ 2011** (2y) | 중국 상하이 주재원 | 서비스 시스템 · 네트워크 운영 팀장 |
-| **2006 ~ 2009** (4y) | System Engineer | 서버 / 스토리지 통합 운영 · 앱서버 가상화 · MS 패치 자동화 |
-| **2001 ~ 2005** (4y) | System Engineer | Windows / Linux 시스템 · HP 서버 / 스토리지 구축·운영 |
-
-> **Total: 23 years of large-scale infrastructure & data platform operations.**
-> 인프라가 진화할 때마다 그 진화의 한복판에 있었습니다.
->>>>>>> f25dbbb (feat(readme): 23년 인프라 정체성 척추 + Career Backbone 신설)
+- **Past 19y** — Data cluster team lead · 약 18PB Hadoop 멀티클러스터 · 무중단 마이그레이션 · 운영로그 ML 예측 시스템
+- **Past 6m** — Physical AI 엔지니어링 (ROS2 · Vision AI · VLA) 양성과정 수료 예정 (2026-06)
+- **Cloud** — Microsoft Azure AZ-900 (2025), AZ-104 학습 중
+- **Blogging weekly** on robotics, ROS2, and Vision AI
 
 ---
 
@@ -66,11 +41,11 @@ grounded in a 6-layer academic framework (Isla 2005, Russell 1980, Salichs 2014,
 
 | Component | Status | Tech |
 |-----------|--------|------|
-| BT Node Headers (7 nodes) | ✅ Complete | C++ / BehaviorTree.CPP 4.8.3 |
-| `bt_executor` + XML + Launch | ✅ Complete | ROS2 Jazzy |
-| Tick sequence verification | ✅ Verified | rclcpp |
-| Nav2 Action Client integration | 🚧 In progress | Nav2 |
-| 6 dobi_npc packages | ✅ Scaffolded | C++ / Python |
+| BT Node Headers (7 nodes) | Complete | C++ / BehaviorTree.CPP 4.8.3 |
+| `bt_executor` + XML + Launch | Complete | ROS2 Jazzy |
+| Tick sequence verification | Verified | rclcpp |
+| Nav2 Action Client integration | In progress | Nav2 |
+| 6 dobi_npc packages | Scaffolded | C++ / Python |
 
 ```
 ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
