@@ -55,7 +55,7 @@ ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
 
 ## Tech Stack
 
-**Infrastructure & Operations** — Linux · Windows · 네트워크(TCP/IP · DNS · VPN) · OpenStack · HA · DR · 가상화
+**Infrastructure & Operations** — Linux · Windows · 네트워크(TCP/IP · DNS · VPN) · HA · DR · 가상화
 
 **Data Platform** — Hadoop (HDFS · RBF · Hive · Impala · HBase · YARN) · Kafka · NiFi · ELK · Grafana · InfluxDB
 
