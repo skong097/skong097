@@ -1,28 +1,53 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314E,100:0A7CFF&height=220&section=header&text=Engineering%20Robots%20That%20Earn%20Trust&fontSize=38&fontColor=ffffff&fontAlignY=34&desc=%E2%80%9C%EC%8B%A0%EB%A2%B0%EB%B0%9B%EB%8A%94%20%EB%A1%9C%EB%B4%87%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4%E2%80%9D&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314E,100:0A7CFF&height=220&section=header&text=23%20Years%20of%20Infrastructure%20·%20Next%2020%20with%20Physical%20AI&fontSize=28&fontColor=ffffff&fontAlignY=34&desc=23%EB%85%84%EC%B0%A8%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80%20%EB%82%98%EC%84%9C%EB%8A%94%20Physical%20AI&descSize=18&descAlignY=58" width="100%"/>
 
 ### 공국진 (Stephen Kong) : **skong097 @ gmail.com**
 
-> Building autonomous service robots · ROS2 · Vision AI
+> 23 years of large-scale infrastructure operations · now transitioning to Physical AI for the next 20 years
 
 [![Blog](https://img.shields.io/badge/Blog-Stephen's_Robotics_Lab-5eead4?style=for-the-badge&logo=githubpages&logoColor=5eead4&labelColor=0a0e1a)](https://skong097.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skong097@gmail.com)
-
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
+<<<<<<< HEAD
 ROS2 기반 자율 서비스 로봇과 Vision AI 시스템을 설계·개발하는 로보틱스 엔지니어입니다.
 
 -  **Currently building** Behavior Tree 기반 카페 NPC 모객 시스템 (MoCa)
 -  **Researching** VLA-class policies (SmolVLA, Pi0) for bimanual manipulation
 -  **Work** solo developer across concurrent robotics projects
 -  **Blogging weekly** on robotics, ROS2, and Vision AI
+=======
+**23년간 대규모 IT 인프라의 무중단 운영을 책임져 온 엔지니어**입니다.
+다음 20년은 사람을 직접 돕는 Physical AI 시스템에 그 경험을 쓰려 합니다.
+
+- 🛠️ **Past 19y** — Data cluster team lead · 약 18PB Hadoop 멀티클러스터 · 무중단 마이그레이션 · 운영로그 ML 예측 시스템
+- 🤖 **Past 6m** — Physical AI 엔지니어링 (ROS2 · Vision AI · VLA) 양성과정 수료 예정 (2026-06)
+- ☁️ **Cloud** — Microsoft Azure AZ-900 (2025), AZ-104 학습 중
+- ✍️ **Blogging weekly** on robotics, ROS2, and Vision AI
+
+---
+
+## Career Backbone (23 Years)
+
+| Period | Role | Highlights |
+|---|---|---|
+| **2018 ~ 2024** (7y) | Data Cluster 개발팀장 | • 약 **18PB** Hadoop 멀티클러스터 설계·운영 (HDFS · RBF · Hive · Impala · YARN · Kafka)<br>• 유료 배포판 → Apache 오픈소스 **무중단 마이그레이션** (2년 · 약 30억 라이선스 부담 해소 · v2.6 → v3.2.2)<br>• 운영로그 기반 **장애 예측 ML 시스템** (XGBoost · LightGBM · MLflow) + 룰 기반 **워크로드 이상탐지** (IQR) 병행<br>• HA 3-노드 (Active / Standby / Observer) + 원격지 DR · 가동률 **99.98%** |
+| **2015 ~ 2017** (3y) | 시스템운영팀장 | 대규모 서비스 운영 총괄 · OpenStack 사설 클라우드 · 서버 가상화 R&D |
+| **2012 ~ 2014** (3y) | 해외시스템운영팀장 | 일본 · 대만 지사 서비스 원격 운영 총괄 |
+| **2010 ~ 2011** (2y) | 중국 상하이 주재원 | 서비스 시스템 · 네트워크 운영 팀장 |
+| **2006 ~ 2009** (4y) | System Engineer | 서버 / 스토리지 통합 운영 · 앱서버 가상화 · MS 패치 자동화 |
+| **2001 ~ 2005** (4y) | System Engineer | Windows / Linux 시스템 · HP 서버 / 스토리지 구축·운영 |
+
+> **Total: 23 years of large-scale infrastructure & data platform operations.**
+> 인프라가 진화할 때마다 그 진화의 한복판에 있었습니다.
+>>>>>>> f25dbbb (feat(readme): 23년 인프라 정체성 척추 + Career Backbone 신설)
 
 ---
 
@@ -30,7 +55,7 @@ ROS2 기반 자율 서비스 로봇과 Vision AI 시스템을 설계·개발하�
 
 <div align="center">
 
-###  MoCa — Cafe NPC Solicitation System
+### MoCa — Cafe NPC Solicitation System
 
 **ROS2 Jazzy workspace integrating a Behavior Tree–driven engagement funnel for service robots.**
 
@@ -55,24 +80,31 @@ ROS_DOMAIN_ID=22  ·  BehaviorTree.CPP 4.8.3  ·  Phase 1 W2
 
 ## Tech Stack
 
-**Robotics & Middleware** — ROS2 Jazzy · Nav2 · MoveIt2 · BehaviorTree.CPP 4.8 · Fast DDS · Zenoh
+**Infrastructure & Operations** — Linux · Windows · 네트워크(TCP/IP · DNS · VPN) · OpenStack · HA · DR · 가상화
 
-**AI / ML / Vision** — PyTorch · CUDA 12.8 · LeRobot 0.5 · OpenCV · YOLO · MediaPipe · ST-GCN · Random Forest · XGBoost · LightGBM
+**Data Platform** — Hadoop (HDFS · RBF · Hive · Impala · HBase · YARN) · Kafka · NiFi · ELK · Grafana · InfluxDB
+
+**ML / MLOps** — XGBoost · LightGBM · MLflow · Random Forest · ST-GCN · YOLO · PyTorch · CUDA 12.8 · OpenCV · MediaPipe
+
+**Robotics & Middleware** — ROS2 Jazzy · Nav2 · MoveIt2 · BehaviorTree.CPP 4.8 · Fast DDS · Zenoh
 
 **Voice & LLM** — faster-whisper STT · Porcupine · Ollama · 한국어 자연어 제어
 
 **Edge / IoT** — ESP32 · ESP32-CAM · AES 암호화 · TCP · Serial
 
-**VLA & Imitation Learning** *(Research · Project in Progress)* — LeRobot 0.5 · ACT Policy · SmolVLA · Pi0 · CUDA 12.8
+**VLA & Imitation Learning** *(Research · In Progress)* — LeRobot 0.5 · ACT Policy · SmolVLA · Pi0
+
+**Cloud** — Microsoft Azure (AZ-900 보유, AZ-104 학습 중)
 
 **Languages & Dev Tools** — Python · C++ · Ubuntu · VS Code · Jupyter · Git
 
 ```text
-Robotics Stack       ████████████████████░  ROS2 · Nav2 · MoveIt2 · BT.CPP
-AI / ML              ███████████████████░░  PyTorch · LeRobot · ACT · ST-GCN
-Vision AI            ████████████████████░  OpenCV · YOLO · MediaPipe
-AIOps / MLOps        ██████████████░░░░░░░  Pipeline · Training Orchestration
-Robot Security       ████████████░░░░░░░░░  JWT · HMAC · NIST SP800-213
+Infrastructure       ████████████████████░  19y · ~18PB · 99.98% uptime
+Data Platform        ████████████████████░  Hadoop · Kafka · NiFi · ELK
+MLOps Pipeline       ███████████████░░░░░░  MLflow Level 1 적용 (예측 시스템)
+Vision AI            █████████████████░░░░  YOLO · ST-GCN · OpenCV · MediaPipe
+Robotics Stack       ████████████████░░░░░  ROS2 · Nav2 · MoveIt2 · BT.CPP
+VLA / IL (Research)  ████████░░░░░░░░░░░░░  LeRobot · ACT · SmolVLA · Pi0
 ```
 
 ---
@@ -83,44 +115,47 @@ Robot Security       ████████████░░░░░░░�
 <tr>
 <td width="50%" valign="top">
 
+### [vision_ai](https://github.com/skong097/vision_ai)
+**Home Care-Vision AI · 낙상 감지**
+
+ST-GCN · Random Forest · YOLO v11 Pose · FastAPI
+
+YOLO v11 Pose 키포인트 위에 정적·시계열 특징 추출 → RF vs ST-GCN 비교 분석.
+정상·낙상 약 4.6:1 불균형 데이터에 언더샘플링 + 클래스 가중치 4가지 전략 비교.
+
+**ST-GCN (Fine-tuned) 99.63% · Recall 99.40%** — RF (97.99% · Recall 94.30%) 대비 우위.
+RF는 추론 속도 약 34× 빠름. PYSKL 전이학습 (약 56,000개 영상 사전학습 모델 기반).
+
+</td>
+<td width="50%" valign="top">
+
 ### [MoCa](https://github.com/skong097/moca)
 **Cafe NPC Behavior Tree System**
 
 ROS2 Jazzy · BT.CPP 4.8.3 · C++ · Nav2
 
 5-stage engagement funnel for café service robots, grounded in published HRI research.
-
-</td>
-<td width="50%" valign="top">
-
-###  Robot Catering Service
-**Autonomous Barista Robot**
-
-Vic Pinky Pro · OMX 4-DOF Arm · ACT Policy
-
-Full-stack café robot with melamine tray, vision-anchored pick-and-place, and GEFA/GEVA guest analysis.
+감정 인식 파이프라인(신뢰도 가중 EMA + 히스테리시스)로 노이즈에 둔감·부정 반응에 민감한 구조.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  [vision_ai](https://github.com/skong097/vision_ai)
-**Home Safe Solution**
+### [smartgate](https://github.com/skong097/smartgate)
+**얼굴 인식 + 제스처 인식 2-factor 인증**
 
-ST-GCN · Random Forest · FastAPI
-
-Fall detection pipeline: RF 93.19% (frame-level), Fine-tuned ST-GCN 91.89% (temporal).
+Voice IoT 프로젝트의 보안 게이트.
+설계 문서(`voice_iot_plan_v2.md`) 작성 + 핵심 구현 · 웹소켓 통신 일부.
 
 </td>
 <td width="50%" valign="top">
 
-###  PlayWait
-**B2B2C Vision AI Game Platform**
+### [voice_iot_home](https://github.com/skong097/voice_iot_home)
+**IoT 기반 스마트홈 컨트롤러**
 
-MediaPipe · YOLO · Real-time
-
-10-week roadmap of vision-AI mini-games for café/restaurant waiting areas.
+얼굴 인증 + 웹소켓 통신 일부 설계·구현 (Voice IoT 1조).
+ESP32 · ESP32-CAM 엣지 + 한국어 음성 제어.
 
 </td>
 </tr>
@@ -128,7 +163,17 @@ MediaPipe · YOLO · Real-time
 
 ---
 
-##  Latest from the Blog
+## Certifications
+
+- **HP LINUX ASE** · **HP Master ASE** (High Availability) · **HP CSA** (HP-UX)
+- **MCSE** · **MCDBA** · **OCP** (Oracle) · **SCSA** (Solaris)
+- **ITIL Foundation** · **네트워크관리사 2급**
+- **Microsoft Azure AZ-900** (2025) · AZ-104 학습 중
+- IELTS Overall 5.5 (2025-07)
+
+---
+
+## Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Auto-populated via gautamkrishnar/blog-post-workflow GitHub Action -->
@@ -140,9 +185,9 @@ MediaPipe · YOLO · Real-time
 
 <div align="center">
 
-###  Let's Connect
+### Let's Connect
 
-Open to collaboration on **ROS2 service robotics**, **VLA policies**, and **vision-AI HRI** projects.
+Open to collaboration on **manufacturing DX infrastructure**, **robotics**, and **MLOps for operations** projects.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A7CFF,100:22314E&height=100&section=footer" width="100%"/>
 
