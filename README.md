@@ -20,7 +20,7 @@
 다음 20년은 **사람을 직접 돕는 Physical AI 시스템**에 그 경험을 쓰려 합니다.
 
 - **Past 19y** — Data cluster team lead · 약 18PB Hadoop 멀티클러스터 · 무중단 마이그레이션 · 운영로그 ML 예측 시스템
-- **Past 6m** — Physical AI 엔지니어링 (ROS2 · Vision AI · VLA) 양성과정 수료 예정 (2026-06)
+- **Past 6m** — Physical AI 엔지니어링 (ROS2 · Vision AI · VLA) 양성과정 수료 (2026-06-04)
 - **Cloud** — Microsoft Azure AZ-900 (2025), AZ-104 학습 중
 - **Blogging weekly** on robotics, ROS2, and Vision AI
 
