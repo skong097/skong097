@@ -104,7 +104,7 @@ RF는 추론 속도 약 34× 빠름. PYSKL 전이학습 (약 56,000개 영상 �
 </td>
 <td width="50%" valign="top">
 
-### [MoCa](https://github.com/skong097/moca)
+### [MoCa](https://github.com/skong097/moca_pai)
 **Cafe NPC Behavior Tree System**
 
 ROS2 Jazzy · BT.CPP 4.8.3 · C++ · Nav2
